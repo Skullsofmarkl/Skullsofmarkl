@@ -1,10 +1,11 @@
 ## ML - инженер
+
 Начинающий специалист в ML - разработке.
 
 Обучился в Академии нейросейтей [The Founder](https://dnk.the-founder.ru/school/courses)
 
 Связь со мной: 
- - telegram - @Hejhog
+ - telegram: @Hedjhog
 
 
 #### Сравнительный анализ алгоритмов обучения с подкреплением
