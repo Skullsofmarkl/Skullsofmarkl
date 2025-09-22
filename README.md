@@ -2,7 +2,7 @@
 
 Начинающий специалист в ML/DL - разработке.
 
-Прошел ДПО в Академии нейросейтей [The Founder](https://dnk.the-founder.ru/school/courses) [Разработчик нейросетей](https://drive.google.com/drive/my-drive)  
+Прошел ДПО в Академии нейросейтей [The Founder](https://dnk.the-founder.ru/school/courses) [Разработчик нейросетей](https://drive.google.com/file/d/1862uy9_r-ZfLMm8g8RSMbMhBssj8B5MK/view?usp=sharing))  
 
 Связь со мной: 
  - telegram: @Hedjhog
